@@ -1,0 +1,1 @@
+https://github.com/hpcaitech/ColossalAI-Examples/blob/main/requirements.txt
